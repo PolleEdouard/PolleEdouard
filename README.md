@@ -5,7 +5,7 @@
  <!-- About section -->
 
 ---
-✨ I'm a student who search stuff to do !. 
+# **About me**
 
 
 
