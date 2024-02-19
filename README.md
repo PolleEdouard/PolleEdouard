@@ -22,11 +22,6 @@ hi i'm Lafarge Baptiste . I'm a french student in software development.
 
 <!-- Conecct section -->
 
-# **Connect with me **
-    - Email : baptiste.lafarge1@etu.unilim.fr
-    <p>
-        <a href="https://www.linkedin.com/in/baptiste-lafarge-0277b6274/"><img src="https://img.shields.io/badge/-baptiste-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://linkedin.com/in/egwuenugift" alt="LinkedIn Badge"></a> 
-       
-       
-   </p>
-
+    # **Contact me**
+- Email : louennguillard.pro@gmail.com
+- LinkedIn : [Louenn GUILLARD](https://www.linkedin.com/in/louenn-guillard-b505bb281)
