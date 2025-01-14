@@ -6,7 +6,7 @@
 
 ---
 # **A propos de moi**
-Salut je m'appelle Baptiste j'ai 20 ans. Je suis actuellement en troisieme anné en BUTBUT(Bachelor Universitaire Technologie) informatique 
+Salut je m'appelle Baptiste j'ai 20 ans. Je suis actuellement en troisieme anné en BUT(Bachelor Universitaire Technologie) informatique 
 
 ## Soft Skills
 - Résolution de problèmes : Capacité à identifier les causes d’un problème technique et à proposer des solutions efficaces.
