@@ -16,7 +16,7 @@ Bonjour je m'appelle Baptiste j'ai 20 ans. Je suis actuellement en troisieme ann
 ## Soft Skills
 - **Résolution de problèmes** : Capacité à identifier les causes d’un problème technique et à proposer des solutions efficaces.
 - **Travail en équipe**: Aptitude à collaborer avec d'autres développeurs, designers ou parties prenantes pour mener un projet à bien.
-   **Autonomie** : Savoir apprendre par soi-même, rechercher des ressources et avancer sans supervision constante.
+-  **Autonomie** : Savoir apprendre par soi-même, rechercher des ressources et avancer sans supervision constante.
 - **Ouverture à la critique** : Accepter les retours constructifs et les utiliser pour progresser.
 - **Communication** : Savoir expliquer des concepts techniques complexes à des non-techniciens, présenter ses idées et rédiger de la documentation claire.
 <!-- code gif-->
