@@ -25,9 +25,9 @@ Salut je m'appelle Baptiste j'ai 20 ans. Je suis actuellement en troisieme anné
 
 ## Mes experiences
 
-## novaterim
-J'ai effectué un stage de 8 semaines au sein de la start-up Novaterim, qui propose un service d'intérim 100 % digital. En binôme, j'ai développé une application mobile en React Native, dédiée aux intérimaires collaborant avec Novaterim. Cette application permet la gestion des documents (RIB, carte de sécurité sociale, carte d'identité) ainsi que des contrats.
-
+ ## novaterim
+ J'ai effectué un stage de 8 semaines au sein de la start-up Novaterim, qui propose un service d'intérim 100 % digital. En binôme, j'ai développé une application mobile en React Native, dédiée aux intérimaires collaborant avec Novaterim. Cette application permet la gestion des documents (RIB, carte de sécurité sociale, carte d'identité) ainsi que des contrats.
+ 
 
 <!-- Conecct section -->
 
