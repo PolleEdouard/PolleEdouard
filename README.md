@@ -5,7 +5,7 @@
 
 ---
 # **A propos de moi**
-Salut je m'appelle Baptiste j'ai 20 ans. Je suis actuellement en troisieme anné en BUT(Bachelor Universitaire Technologie) informatique .
+Bonjour je m'appelle Baptiste j'ai 20 ans. Je suis actuellement en troisieme anné en BUT(Bachelor Universitaire Technologie) informatique .
  
 ## Les langages que j'apprends
 <img src="https://github.com/tandpfun/skill-icons/blob/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Java-Light.svg" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Python-Light.svg" width="32">  <img src="https://github.com/tandpfun/skill-icons/blob/de91fca307a83d75fc5b1f6ce24540454acead41/icons/PostgreSQL-Light.svg" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Rust.svg" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/de91fca307a83d75fc5b1f6ce24540454acead41/icons/JavaScript.svg" width="32">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="32"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/de91fca307a83d75fc5b1f6ce24540454acead41/icons/MySQL-Light.svg" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/de91fca307a83d75fc5b1f6ce24540454acead41/icons/HTML.svg" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/de91fca307a83d75fc5b1f6ce24540454acead41/icons/CSS.svg" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="32">
