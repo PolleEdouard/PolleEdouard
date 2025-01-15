@@ -14,7 +14,7 @@ Salut je m'appelle Baptiste j'ai 20 ans. Je suis actuellement en troisieme anné
 <img src="https://github.com/tandpfun/skill-icons/blob/de91fca307a83d75fc5b1f6ce24540454acead41/icons/VisualStudio-Light.svg" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/de91fca307a83d75fc5b1f6ce24540454acead41/icons/AndroidStudio-Light.svg" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Eclipse-Light.svg" width="32" > <img src="https://github.com/tandpfun/skill-icons/blob/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Azure-Light.svg" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Light.svg?short_path=3d51327" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="32">
 
 ## Soft Skills
-- Résolution de problèmes : Capacité à identifier les causes d’un problème technique et à proposer des solutions efficaces.
+- ** Résolution de problèmes ** : Capacité à identifier les causes d’un problème technique et à proposer des solutions efficaces.
 - Travail en équipe : Aptitude à collaborer avec d'autres développeurs, designers ou parties prenantes pour mener un projet à bien.
 - Autonomie : Savoir apprendre par soi-même, rechercher des ressources et avancer sans supervision constante.
 - Ouverture à la critique : Accepter les retours constructifs et les utiliser pour progresser.
