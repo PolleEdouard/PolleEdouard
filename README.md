@@ -4,33 +4,34 @@
 
 
 ---
-# **A propos de moi**
-Bonjour je m'appelle Baptiste j'ai 20 ans. Je suis actuellement en troisieme anné en BUT(Bachelor Universitaire Technologie) informatique .
+# **About me**
+Hello, my name is Baptiste, and I am 20 years old. I am currently in my third year of a Bachelor's degree in Computer Science (BUT - Bachelor of Technology).
  
-## Les langages que j'apprends
+## The languages I am learning
 <img src="https://github.com/tandpfun/skill-icons/blob/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Java-Light.svg" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Python-Light.svg" width="32">  <img src="https://github.com/tandpfun/skill-icons/blob/de91fca307a83d75fc5b1f6ce24540454acead41/icons/PostgreSQL-Light.svg" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Rust.svg" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/de91fca307a83d75fc5b1f6ce24540454acead41/icons/JavaScript.svg" width="32">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="32"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/de91fca307a83d75fc5b1f6ce24540454acead41/icons/MySQL-Light.svg" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/de91fca307a83d75fc5b1f6ce24540454acead41/icons/HTML.svg" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/de91fca307a83d75fc5b1f6ce24540454acead41/icons/CSS.svg" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="32">
 
-## Quelques Outils
+## Some Tools
 <img src="https://github.com/tandpfun/skill-icons/blob/de91fca307a83d75fc5b1f6ce24540454acead41/icons/VisualStudio-Light.svg" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/de91fca307a83d75fc5b1f6ce24540454acead41/icons/AndroidStudio-Light.svg" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Eclipse-Light.svg" width="32" > <img src="https://github.com/tandpfun/skill-icons/blob/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Azure-Light.svg" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Light.svg?short_path=3d51327" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="32">
 
 ## Soft Skills
-- **Résolution de problèmes** : Capacité à identifier les causes d’un problème technique et à proposer des solutions efficaces.
-- **Travail en équipe**: Aptitude à collaborer avec d'autres développeurs, designers ou parties prenantes pour mener un projet à bien.
--  **Autonomie** : Savoir apprendre par soi-même, rechercher des ressources et avancer sans supervision constante.
-- **Ouverture à la critique** : Accepter les retours constructifs et les utiliser pour progresser.
-- **Communication** : Savoir expliquer des concepts techniques complexes à des non-techniciens, présenter ses idées et rédiger de la documentation claire.
+- - **Problem Solving**: Ability to identify the root causes of a technical problem and propose effective solutions.  
+- **Teamwork**: Skill in collaborating with other developers, designers, or stakeholders to successfully complete a project.  
+- **Autonomy**: Ability to learn independently, search for resources, and make progress without constant supervision.  
+- **Openness to Criticism**: Willingness to accept constructive feedback and use it to improve.  
+- **Communication**: Ability to explain complex technical concepts to non-technical individuals, present ideas, and write clear documentation.  
 <!-- code gif-->
 <img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
 
 
-## Mes experiences
+## My Experiences
 
  ## novaterim
- J'ai effectué un stage de 8 semaines au sein de la start-up Novaterim, qui propose un service d'intérim 100 % digital. En binôme, j'ai développé une application mobile en React Native, dédiée aux intérimaires collaborant avec Novaterim. Cette application permet la gestion des documents (RIB, carte de sécurité sociale, carte d'identité) ainsi que des contrats.
+ I completed an 8-week internship at the start-up Novaterim, which offers a 100% digital temporary employment service.
+In a team of two, I developed a mobile application using React Native, designed for temporary workers collaborating with Novaterim. This application facilitates document management (bank details, social security card, ID card) as well as contract management.
  
 
 <!-- Conecct section -->
 
-# **Me contacter**
+# **Contact me**
 - Email : baptiste.lafarge1@etu.unilim.fr
 - LinkedIn : [Lafarge Baptiste](https://www.linkedin.com/in/baptiste-lafarge-0277b6274/)
