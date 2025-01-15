@@ -14,7 +14,7 @@ Hello, my name is Baptiste, and I am 20 years old. I am currently in my third ye
 <img src="https://github.com/tandpfun/skill-icons/blob/de91fca307a83d75fc5b1f6ce24540454acead41/icons/VisualStudio-Light.svg" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/de91fca307a83d75fc5b1f6ce24540454acead41/icons/AndroidStudio-Light.svg" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Eclipse-Light.svg" width="32" > <img src="https://github.com/tandpfun/skill-icons/blob/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Azure-Light.svg" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Light.svg?short_path=3d51327" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="32">
 
 ## Soft Skills
-- - **Problem Solving**: Ability to identify the root causes of a technical problem and propose effective solutions.  
+- **Problem Solving**: Ability to identify the root causes of a technical problem and propose effective solutions.  
 - **Teamwork**: Skill in collaborating with other developers, designers, or stakeholders to successfully complete a project.  
 - **Autonomy**: Ability to learn independently, search for resources, and make progress without constant supervision.  
 - **Openness to Criticism**: Willingness to accept constructive feedback and use it to improve.  
