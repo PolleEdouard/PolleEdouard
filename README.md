@@ -5,7 +5,7 @@
 
 ---
 # **About me**
-Hello, my name is Baptiste, and I am 20 years old. I am currently in my third year of a Bachelor's degree in Computer Science (BUT - Bachelor of Technology).
+Hello !
  
 ## The languages I am learning
 <img src="https://github.com/tandpfun/skill-icons/blob/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Java-Light.svg" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Python-Light.svg" width="32">  <img src="https://github.com/tandpfun/skill-icons/blob/de91fca307a83d75fc5b1f6ce24540454acead41/icons/PostgreSQL-Light.svg" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Rust.svg" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/de91fca307a83d75fc5b1f6ce24540454acead41/icons/JavaScript.svg" width="32">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="32"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/de91fca307a83d75fc5b1f6ce24540454acead41/icons/MySQL-Light.svg" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/de91fca307a83d75fc5b1f6ce24540454acead41/icons/HTML.svg" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/de91fca307a83d75fc5b1f6ce24540454acead41/icons/CSS.svg" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="32">
@@ -30,7 +30,7 @@ Hello, my name is Baptiste, and I am 20 years old. I am currently in my third ye
 In a team of two, I developed a mobile application using React Native, designed for temporary workers collaborating with Novaterim. This application facilitates document management (bank details, social security card, ID card) as well as contract management.
  
 
-<!-- Conecct section -->
+<!-- Conect section -->
 
 # **Contact me**
 - Email : baptiste.lafarge1@etu.unilim.fr
